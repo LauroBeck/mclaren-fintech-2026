@@ -1,3 +1,7 @@
+![2026 Audit](https://github.com/LauroBeck/mclaren-fintech-2026/actions/workflows/fintech_audit.yml/badge.svg)
+
+
+
 # McLaren-Mastercard 2026 Strategic Fintech Pulse
 **Architect:** Lauro Sergio V. Beck
 
